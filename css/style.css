@@ -73,7 +73,7 @@ li a:hover {
 }
 
 .front-top {
-    background-image: url(/assets/front-top.jpeg);
+    background-image: url(../assets/Highlight-M365-Icon-Bounce_VP5-1920x600.avif);
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -82,7 +82,7 @@ li a:hover {
 }
 
 .back-top {
-    background-image: url(/assets/back-top.jpeg);
+    background-image: url(../assets/Highlight-Copilot-Native-App-ROW_VP5-1920x600.avif);
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -163,7 +163,7 @@ li a:hover {
     width: 100%;
     height: 520px;
     color: white;
-    background-image: url(/assets/third.jpeg);
+    background-image: url(../assets/Highlight-PC-SMB-OneNote_VP5-1596x600.avif);
     background-size: cover;
     margin-bottom: 100px;
     position: relative;
